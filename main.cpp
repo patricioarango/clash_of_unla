@@ -3,6 +3,9 @@
 #include <SDL_image.h>
 #include <fstream>
 #include <string>
+
+#include "tren.h"
+
 using namespace std;
 
 int main(int argc,char *argv[])
