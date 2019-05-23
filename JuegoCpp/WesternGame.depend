@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1557944890 source:c:\users\xensis\desktop\westergame\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<Windows.h>
+	<MMsystem.h>
+	<SDL.h>
+	<SDL_image.h>
+	"Partida.h"
+	"Caravana.h"
+	"Carro.h"
+	"Villano.h"
+	"Mina.h"
+	"Moneda.h"
+
+1557689045 source:c:\users\xensis\desktop\westergame\suelo.cpp
+	"Suelo.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1557848715 c:\users\xensis\desktop\westergame\suelo.h
+	<SDL.h>
+	"Caravana.h"
+
+1557952202 source:c:\users\xensis\desktop\westergame\partida.cpp
+	<string.h>
+	<SDL.h>
+	"Partida.h"
+	"Casillero.h"
+	"Mapa.h"
+	"Caravana.h"
+	"Villano.h"
+	<ctime>
+	<stdlib.h>
+
+1557905867 c:\users\xensis\desktop\westergame\partida.h
+	<SDL.h>
+	"Casillero.h"
+	"Mapa.h"
+	"Caravana.h"
+
+1557955383 source:c:\users\xensis\desktop\westergame\carro.cpp
+	"Carro.h"
+	<string.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1557878475 c:\users\xensis\desktop\westergame\carro.h
+	<SDL.h>
+
+1557864238 c:\users\xensis\desktop\westergame\caravana.h
+	"Carro.h"
+
+1557895544 source:c:\users\xensis\desktop\westergame\caravana.cpp
+	"Caravana.h"
+	"Carro.h"
+
+1557950740 c:\users\xensis\desktop\westergame\casillero.h
+	<SDL.h>
+	"Caravana.h"
+	"Villano.h"
+	"Mina.h"
+	"Moneda.h"
+
+1557959731 source:c:\users\xensis\desktop\westergame\casillero.cpp
+	"Casillero.h"
+	"Caravana.h"
+	<SDL.h>
+	<SDL_image.h>
+	<string.h>
+
+1557905917 c:\users\xensis\desktop\westergame\mapa.h
+	"Caravana.h"
+	"Villano.h"
+	"Mina.h"
+	"Moneda.h"
+
+1557906271 source:c:\users\xensis\desktop\westergame\mapa.cpp
+	"Mapa.h"
+	"Caravana.h"
+	"Villano.h"
+	"Mina.h"
+	"Moneda.h"
+
+1557906176 c:\users\xensis\desktop\westergame\villano.h
+	<SDL.h>
+
+1557956048 source:c:\users\xensis\desktop\westergame\villano.cpp
+	"Villano.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1557956032 source:c:\users\xensis\desktop\westergame\mina.cpp
+	"Mina.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1557906212 c:\users\xensis\desktop\westergame\mina.h
+	<SDL.h>
+
+1557906206 c:\users\xensis\desktop\westergame\moneda.h
+	<SDL.h>
+
+1557956039 source:c:\users\xensis\desktop\westergame\moneda.cpp
+	"Moneda.h"
+	<SDL.h>
+	<SDL_image.h>
+
