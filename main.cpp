@@ -26,14 +26,14 @@ int main(int argc,char *argv[])
    {
         std::ifstream file("parametros.txt");
         std::string line;
-        while (std::getline(file, line,";"))
+        while (std::getline(file, line))
         {
-	        std::string key = line.substr(0, line.find(":")); 
-		std::string value = line.substr(1, line.find(":")); 
+	        std::string key = line.substr(0, line.find(":"));
+            std::string value = line.substr(1, line.find(":"));
 
-		if (key == "A"){
-			cout << "el valor del parametro A" << value; 
-		}
+            if (key == "A"){
+                cout << "el valor del parametro A" << value;
+            }
         }
 
         SDL_ShowSimpleMessageBox(SDL_MESSAGEBOX_INFORMATION,"OK","SDL OK",NULL);
