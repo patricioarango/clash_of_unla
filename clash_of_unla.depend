@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1558712930 source:c:\users\wjgri\documents\github\clash_of_unla\caravana.cpp
+	"Caravana.h"
+	"Carro.h"
+
+1558712930 c:\users\wjgri\documents\github\clash_of_unla\caravana.h
+	"Carro.h"
+
+1558712930 c:\users\wjgri\documents\github\clash_of_unla\carro.h
+	<SDL.h>
+
+1558712930 source:c:\users\wjgri\documents\github\clash_of_unla\carro.cpp
+	"Carro.h"
+	<string.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1558712930 source:c:\users\wjgri\documents\github\clash_of_unla\casillero.cpp
+	"Casillero.h"
+	"Caravana.h"
+	<SDL.h>
+	<SDL_image.h>
+	<string.h>
+
+1558712930 c:\users\wjgri\documents\github\clash_of_unla\casillero.h
+	<SDL.h>
+	"Caravana.h"
+	"Villano.h"
+	"Mina.h"
+	"Moneda.h"
+
+1558712930 c:\users\wjgri\documents\github\clash_of_unla\villano.h
+	<SDL.h>
+
+1558712930 c:\users\wjgri\documents\github\clash_of_unla\mina.h
+	<SDL.h>
+
+1558712930 c:\users\wjgri\documents\github\clash_of_unla\moneda.h
+	<SDL.h>
+
+1558733266 source:c:\users\wjgri\documents\github\clash_of_unla\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<Windows.h>
+	<MMsystem.h>
+	<SDL.h>
+	<SDL_image.h>
+	"Partida.h"
+	"Caravana.h"
+	"Carro.h"
+	"Villano.h"
+	"Mina.h"
+	"Moneda.h"
+
+1558712930 c:\users\wjgri\documents\github\clash_of_unla\partida.h
+	<SDL.h>
+	"Casillero.h"
+	"Mapa.h"
+	"Caravana.h"
+
+1558712930 c:\users\wjgri\documents\github\clash_of_unla\mapa.h
+	"Caravana.h"
+	"Villano.h"
+	"Mina.h"
+	"Moneda.h"
+
+1558712930 source:c:\users\wjgri\documents\github\clash_of_unla\mapa.cpp
+	"Mapa.h"
+	"Caravana.h"
+	"Villano.h"
+	"Mina.h"
+	"Moneda.h"
+
+1558712930 source:c:\users\wjgri\documents\github\clash_of_unla\mina.cpp
+	"Mina.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1558712930 source:c:\users\wjgri\documents\github\clash_of_unla\moneda.cpp
+	"Moneda.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1558712930 source:c:\users\wjgri\documents\github\clash_of_unla\partida.cpp
+	<string.h>
+	<SDL.h>
+	"Partida.h"
+	"Casillero.h"
+	"Mapa.h"
+	"Caravana.h"
+	"Villano.h"
+	<ctime>
+	<stdlib.h>
+
+1558712930 source:c:\users\wjgri\documents\github\clash_of_unla\villano.cpp
+	"Villano.h"
+	<SDL.h>
+	<SDL_image.h>
+
