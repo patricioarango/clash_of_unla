@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1559770314 source:c:\users\wjgri\documents\codeblocks\minastest\colaminas.cpp
+	"Colaminas.h"
+
+1559770314 c:\users\wjgri\documents\codeblocks\minastest\colaminas.h
+
+1559770038 source:c:\users\wjgri\documents\codeblocks\minastest\listaminas.cpp
+	"Listaminas.h"
+
+1559770314 c:\users\wjgri\documents\codeblocks\minastest\listaminas.h
+
+1559770314 source:c:\users\wjgri\documents\codeblocks\minastest\secuenciaproduccion.cpp
+	"Secuenciaproduccion.h"
+
+1559770314 c:\users\wjgri\documents\codeblocks\minastest\secuenciaproduccion.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1559788773 source:c:\users\wjgri\documents\codeblocks\minastest\minas.cpp
+	"Minas.h"
+	"Colaminas.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1559788829 c:\users\wjgri\documents\codeblocks\minastest\minas.h
+	<cstdlib>
+	<iostream>
+	<string>
+	"Colaminas.h"
+	"Secuenciaproduccion.h"
+	<SDL.h>
+
+1560353726 source:c:\users\wjgri\documents\codeblocks\minastest\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<Windows.h>
+	<MMsystem.h>
+	<SDL.h>
+	<SDL_image.h>
+	"Minas.h"
+	"Secuenciaproduccion.h"
+	"Listaminas.h"
+	"Colaminas.h"
+
